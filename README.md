@@ -8,7 +8,7 @@ freu mich, dass ihr dabei seid. Unten findet ihr eine kurze Beschreibung des Rep
 
 Der Datensatz dieser Challenge basiert auf dem [OMQ datensatz](http://www.dfki.de/~neumann/resources/omqdata.html) welche aus deutschsprachigen Interaktions und Email Anfragen an ein Softwareunternehmen besteht
 
-Ihr findet die Daten unter `data/emails.csv` als CSV File (seperator: ',')
+Ihr findet die Daten unter `data/train.csv` als CSV File (seperator: ','). Die Test-Daten findet ihr unter `data/test.csv` wobei hier nur die E-Mail Texte drinnen sind, aber nicht die richtigen Klassen, sodass ihr diese nur mit dem trainierten Modell herausfinden müsst.
 
 ## Helper Functionality
 
